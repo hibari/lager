@@ -1,7 +1,8 @@
-.eunit
 *.beam
-ebin
-doc
 *.swp
-erl_crash.dump
+.eunit
 .project
+.qc
+doc
+ebin
+erl_crash.dump
